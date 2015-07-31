@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.pkl
+*.npy
+*.mp4
+*.MOV
+*.zip
+*.txt
+*.swp
